@@ -62,3 +62,11 @@ fully reproducible.
 ## Ethics
 Survey data should only be shared in accordance with
 participant consent and applicable privacy requirements.
+
+
+## System Architecture
+
+The following diagram illustrates the text classification workflow using TF-IDF and Logistic Regression.
+
+![System Architecture](system_architecture.png)
+
