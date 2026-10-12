@@ -1,10 +1,7 @@
-# Stress-Related Text Classification Using Natural Language Processing
+# Early Detection of Stress and Depression Using Natural Language Processing (NLP)
 
 ## 1. Project Overview
-
-This project explores Natural Language Processing (NLP) techniques for classifying stress-related text using machine learning. It compares two traditional text classification models: Logistic Regression and Linear Support Vector Classification (LinearSVC).
-
-The project also includes exploratory analysis of a Google Forms survey.
+This research investigates the potential use of Natural Language Processing (NLP) and machine learning techniques for identifying stress-related patterns in text. The current experimental implementation evaluates binary stress-related text classification using the Dreaddit dataset. Depression-specific detection and clinical validation remain outside the scope of the current experiment and require further research.
 
 **Important:** This project is an academic machine learning experiment, not a clinical diagnostic system. Model predictions must not be used to diagnose stress or depression.
 
